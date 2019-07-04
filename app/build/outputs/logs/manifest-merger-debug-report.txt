@@ -1,0 +1,282 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:2:1-60:12
+MERGED from [com.android.support:design:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/38e300a831da2de7fe24b55c89aa6c27/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e5c22ca55657c6b4534b3cb69ce4a017/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4f9562ff0302f043d40baf5e12720003/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/90cc79cb729cbda7ecf852ffe53a0a61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/0ab3a3e76677e1702dc638463f173b8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4516120aea7aef2025d06256329e777e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4604e19274c452423cf8eb60ab92d450/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/54bc3843d3ae6e9478077d590f1b0552/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/a957ad537c294507e6cb7f2fa4e461cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e1a81a0c7d68c5fc656626a9576070f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/142820b9f67710ef6508ca0116071890/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/67cfce7cc56470ffd3dcf199e3c4e79d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/2374a9e145f1f4d81da88b69707b324a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e96ba427a4532019bdbd8e53869828ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/884e73f01aa217d7cdaee86da6554d81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e3ca2cf5cc45dcf6c8363e85f6624f0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/b7e483d4e6246394e2ab05ac8438e709/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/3896a08214edc324d0928816becf3be3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/afbac10b74a8fc3797db3eac510e1c1a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/88deaa10272a7a36bd914bb6b7cd7fe9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/d02f03b6960c05dbb038f057f0c87d74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/f0aab4cd1fca97f7d60c39661e2a50a2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/bf9d37540564f480f46e9dc55875a0c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/d7fc67a462adde1e5a21a06308a3ae8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/a9765200f326510f4918f00e6233e51b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/94c82d0675ac44ea9fb3d71613cdb62d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/df9f1f874bd43410d431def543e9f503/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/cf73825c3e540446b5ce72e7f095125a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/d82c2c51b0fd3bcb11381897662a8429/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/a6bfe502157f85e0d66cb9eea5524ea8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/35ba28107d37d2718a041b082bfe4c59/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:6:5-58:19
+MERGED from [com.android.support:design:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/38e300a831da2de7fe24b55c89aa6c27/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/38e300a831da2de7fe24b55c89aa6c27/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4f9562ff0302f043d40baf5e12720003/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4f9562ff0302f043d40baf5e12720003/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/afbac10b74a8fc3797db3eac510e1c1a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/afbac10b74a8fc3797db3eac510e1c1a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/88deaa10272a7a36bd914bb6b7cd7fe9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/88deaa10272a7a36bd914bb6b7cd7fe9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/afbac10b74a8fc3797db3eac510e1c1a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:9:9-35
+	android:roundIcon
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:10:9-50
+	android:icon
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.scm.Display_calander
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:13:9-63
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:13:19-51
+activity#com.example.scm.Main_Gallary
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:15:9-50
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:15:19-47
+activity#com.example.scm.IW
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:16:19-37
+activity#com.example.scm.Circular_MainActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:17:9-59
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:17:19-56
+activity#com.example.scm.CircularActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:18:9-54
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:18:19-51
+activity#com.example.scm.Results_MainActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:19:9-58
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:19:19-55
+activity#com.example.scm.ResultActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:20:19-49
+activity#com.example.scm.News_MainActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:21:9-55
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:21:19-52
+activity#com.example.scm.NewsActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:22:19-47
+activity#com.example.scm.Remarks_MainActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:23:19-55
+activity#com.example.scm.RemarksActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:24:9-53
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:24:19-50
+activity#com.example.scm.HW_MainActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:25:9-53
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:25:19-50
+activity#com.example.scm.HWActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:26:19-45
+activity#com.example.scm.AchievementMainActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:27:9-61
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:27:19-58
+activity#com.example.scm.Achievement
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:28:9-49
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:28:19-46
+activity#com.example.scm.LibraryMainActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:29:9-57
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:29:19-54
+activity#com.example.scm.LibraryActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:30:9-53
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:30:19-50
+activity#com.example.scm.FeesActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:31:9-50
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:31:19-47
+activity#com.example.scm.DisplayProfile
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:32:9-52
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:32:19-49
+activity#com.example.scm.Fees
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:33:9-42
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:33:19-39
+activity#com.example.scm.profile
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:34:9-45
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:34:19-42
+activity#com.example.scm.activity_attendence
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:35:9-57
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:35:19-54
+activity#com.example.scm.login
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:36:9-43
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:36:19-40
+activity#com.example.scm.splash_screen
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:37:9-47:20
+	android:label
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:39:13-39
+	tools:ignore
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:41:13-37
+	android:theme
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:38:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:45:27-74
+activity#com.example.scm.MainActivity
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:48:9-57:20
+	android:label
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:50:13-39
+	android:theme
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:49:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:52:13-56:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml:55:27-73
+uses-sdk
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/38e300a831da2de7fe24b55c89aa6c27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/38e300a831da2de7fe24b55c89aa6c27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e5c22ca55657c6b4534b3cb69ce4a017/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e5c22ca55657c6b4534b3cb69ce4a017/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4f9562ff0302f043d40baf5e12720003/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4f9562ff0302f043d40baf5e12720003/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/90cc79cb729cbda7ecf852ffe53a0a61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/90cc79cb729cbda7ecf852ffe53a0a61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/0ab3a3e76677e1702dc638463f173b8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/0ab3a3e76677e1702dc638463f173b8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4516120aea7aef2025d06256329e777e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4516120aea7aef2025d06256329e777e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4604e19274c452423cf8eb60ab92d450/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/4604e19274c452423cf8eb60ab92d450/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/54bc3843d3ae6e9478077d590f1b0552/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/54bc3843d3ae6e9478077d590f1b0552/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/a957ad537c294507e6cb7f2fa4e461cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/a957ad537c294507e6cb7f2fa4e461cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e1a81a0c7d68c5fc656626a9576070f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e1a81a0c7d68c5fc656626a9576070f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/142820b9f67710ef6508ca0116071890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/142820b9f67710ef6508ca0116071890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/67cfce7cc56470ffd3dcf199e3c4e79d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/67cfce7cc56470ffd3dcf199e3c4e79d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/2374a9e145f1f4d81da88b69707b324a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/2374a9e145f1f4d81da88b69707b324a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e96ba427a4532019bdbd8e53869828ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e96ba427a4532019bdbd8e53869828ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/884e73f01aa217d7cdaee86da6554d81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/884e73f01aa217d7cdaee86da6554d81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e3ca2cf5cc45dcf6c8363e85f6624f0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/e3ca2cf5cc45dcf6c8363e85f6624f0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/b7e483d4e6246394e2ab05ac8438e709/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/b7e483d4e6246394e2ab05ac8438e709/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/3896a08214edc324d0928816becf3be3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/3896a08214edc324d0928816becf3be3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/afbac10b74a8fc3797db3eac510e1c1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/afbac10b74a8fc3797db3eac510e1c1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/88deaa10272a7a36bd914bb6b7cd7fe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/88deaa10272a7a36bd914bb6b7cd7fe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/d02f03b6960c05dbb038f057f0c87d74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/d02f03b6960c05dbb038f057f0c87d74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/f0aab4cd1fca97f7d60c39661e2a50a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/f0aab4cd1fca97f7d60c39661e2a50a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/bf9d37540564f480f46e9dc55875a0c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/bf9d37540564f480f46e9dc55875a0c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/d7fc67a462adde1e5a21a06308a3ae8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/d7fc67a462adde1e5a21a06308a3ae8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/a9765200f326510f4918f00e6233e51b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/a9765200f326510f4918f00e6233e51b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/94c82d0675ac44ea9fb3d71613cdb62d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/94c82d0675ac44ea9fb3d71613cdb62d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/df9f1f874bd43410d431def543e9f503/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/df9f1f874bd43410d431def543e9f503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/cf73825c3e540446b5ce72e7f095125a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/cf73825c3e540446b5ce72e7f095125a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/d82c2c51b0fd3bcb11381897662a8429/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/d82c2c51b0fd3bcb11381897662a8429/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/a6bfe502157f85e0d66cb9eea5524ea8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/a6bfe502157f85e0d66cb9eea5524ea8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/35ba28107d37d2718a041b082bfe4c59/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/swapnilkrana/.gradle/caches/transforms-2/files-2.1/35ba28107d37d2718a041b082bfe4c59/AndroidManifest.xml:20:5-44
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapnilkrana/Downloads/School_manage-master/app/src/main/AndroidManifest.xml

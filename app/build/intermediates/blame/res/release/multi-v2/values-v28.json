@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\WELCOME\\Desktop\\School_manage-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\WELCOME\\.gradle\\caches\\transforms-2\\files-2.1\\f8ad7015bac07b9229ca8b8cc365e122\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Tue Jun 04 10:36:58 IST 2019
+base.0=C\:\\Users\\WELCOME\\Desktop\\School_manage-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
